@@ -320,3 +320,11 @@ Initialized database with 10 authors and 10 books.
 
 ### Application Web Interface: Add Book (`GET /books/add`)
 > *[Insert screenshot of the "Add New Book" form here]*
+
+---
+
+## 8. Source Code Repository
+
+Every project file is hosted publicly on GitHub at the address below. Cloning the repository and executing the Maven Spring Boot goal brings the application online on a local workstation within minutes. The repository contains all artefacts needed for a complete build: entity and repository classes, service and controller implementations, JSP view templates, test sources, and the Maven project descriptor.
+
+**GitHub URL:** [https://github.com/Rizwanabegumsk/springboot](https://github.com/Rizwanabegumsk/springboot)
