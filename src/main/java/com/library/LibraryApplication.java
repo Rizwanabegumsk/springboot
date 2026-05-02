@@ -1,13 +1,12 @@
-package com.assignment.springboot;
+package com.library;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class LibraryApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(LibraryApplication.class, args);
     }
-
 }

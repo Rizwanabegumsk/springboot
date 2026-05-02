@@ -1,6 +1,6 @@
-package com.assignment.springboot.repository;
+package com.library.repository;
 
-import com.assignment.springboot.entity.Author;
+import com.library.entity.Author;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
