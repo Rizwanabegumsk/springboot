@@ -1,10 +1,10 @@
-Library Management System | Spring Boot 3.2 [Your Name]
-Page 1 | github.com/[YourGitHubUsername]/springboot-assignment
+Library Management System | Spring Boot 3.2 Rizwana Begum
+Page 1 | github.com/Rizwanabegumsk/springboot
 
 # Library Management System
 **Spring Boot Application — Books & Authors Catalogue**  
-[Your Name]  
-github.com/[YourGitHubUsername]/springboot-assignment
+Rizwana Begum  
+github.com/Rizwanabegumsk/springboot
 
 | Component | Technology / Detail |
 | :--- | :--- |
